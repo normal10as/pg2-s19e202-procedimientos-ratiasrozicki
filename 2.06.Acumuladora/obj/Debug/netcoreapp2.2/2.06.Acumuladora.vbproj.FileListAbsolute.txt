@@ -8,3 +8,4 @@ D:\VB\Procedimientos\Procedimientos\2.06.Acumuladora\obj\Debug\netcoreapp2.2\2.0
 D:\VB\Procedimientos\Procedimientos\2.06.Acumuladora\obj\Debug\netcoreapp2.2\2.06.Acumuladora.AssemblyInfo.vb
 D:\VB\Procedimientos\Procedimientos\2.06.Acumuladora\obj\Debug\netcoreapp2.2\2.06.Acumuladora.dll
 D:\VB\Procedimientos\Procedimientos\2.06.Acumuladora\obj\Debug\netcoreapp2.2\2.06.Acumuladora.pdb
+D:\VB\Procedimientos\Procedimientos\2.06.Acumuladora\obj\Debug\netcoreapp2.2\2.06.Acumuladora.vbprojAssemblyReference.cache

@@ -3,7 +3,6 @@ D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\bin\Debug\netcoreapp2.2\2.05.
 D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\bin\Debug\netcoreapp2.2\2.05.Potencia.runtimeconfig.dev.json
 D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\bin\Debug\netcoreapp2.2\2.05.Potencia.dll
 D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\bin\Debug\netcoreapp2.2\2.05.Potencia.pdb
-D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\obj\Debug\netcoreapp2.2\2.05.Potencia.vbprojAssemblyReference.cache
 D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\obj\Debug\netcoreapp2.2\2.05.Potencia.vbproj.CoreCompileInputs.cache
 D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\obj\Debug\netcoreapp2.2\2.05.Potencia.AssemblyInfoInputs.cache
 D:\VB\Procedimientos\Procedimientos\2.0.5.Potencia\obj\Debug\netcoreapp2.2\2.05.Potencia.AssemblyInfo.vb
