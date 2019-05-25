@@ -1,0 +1,11 @@
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\bin\Debug\netcoreapp2.2\2.03.Hipoteniza.deps.json
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\bin\Debug\netcoreapp2.2\2.03.Hipoteniza.runtimeconfig.json
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\bin\Debug\netcoreapp2.2\2.03.Hipoteniza.runtimeconfig.dev.json
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\bin\Debug\netcoreapp2.2\2.03.Hipoteniza.dll
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\bin\Debug\netcoreapp2.2\2.03.Hipoteniza.pdb
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\obj\Debug\netcoreapp2.2\2.03.Hipoteniza.vbprojAssemblyReference.cache
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\obj\Debug\netcoreapp2.2\2.03.Hipoteniza.vbproj.CoreCompileInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\obj\Debug\netcoreapp2.2\2.03.Hipoteniza.AssemblyInfoInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\obj\Debug\netcoreapp2.2\2.03.Hipoteniza.AssemblyInfo.vb
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\obj\Debug\netcoreapp2.2\2.03.Hipoteniza.dll
+D:\VB\Procedimientos\Procedimientos\2.03.Hipoteniza\obj\Debug\netcoreapp2.2\2.03.Hipoteniza.pdb

@@ -1,0 +1,11 @@
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\bin\Debug\netcoreapp2.2\2.02.NuevaFecha.deps.json
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\bin\Debug\netcoreapp2.2\2.02.NuevaFecha.runtimeconfig.json
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\bin\Debug\netcoreapp2.2\2.02.NuevaFecha.runtimeconfig.dev.json
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\bin\Debug\netcoreapp2.2\2.02.NuevaFecha.dll
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\bin\Debug\netcoreapp2.2\2.02.NuevaFecha.pdb
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\obj\Debug\netcoreapp2.2\2.02.NuevaFecha.vbprojAssemblyReference.cache
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\obj\Debug\netcoreapp2.2\2.02.NuevaFecha.vbproj.CoreCompileInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\obj\Debug\netcoreapp2.2\2.02.NuevaFecha.AssemblyInfoInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\obj\Debug\netcoreapp2.2\2.02.NuevaFecha.AssemblyInfo.vb
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\obj\Debug\netcoreapp2.2\2.02.NuevaFecha.dll
+D:\VB\Procedimientos\Procedimientos\2.02.NuevaFecha\obj\Debug\netcoreapp2.2\2.02.NuevaFecha.pdb

@@ -1,0 +1,11 @@
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\bin\Debug\netcoreapp2.2\2.01.ahoraES.deps.json
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\bin\Debug\netcoreapp2.2\2.01.ahoraES.runtimeconfig.json
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\bin\Debug\netcoreapp2.2\2.01.ahoraES.runtimeconfig.dev.json
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\bin\Debug\netcoreapp2.2\2.01.ahoraES.dll
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\bin\Debug\netcoreapp2.2\2.01.ahoraES.pdb
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\obj\Debug\netcoreapp2.2\2.01.ahoraES.vbprojAssemblyReference.cache
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\obj\Debug\netcoreapp2.2\2.01.ahoraES.vbproj.CoreCompileInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\obj\Debug\netcoreapp2.2\2.01.ahoraES.AssemblyInfoInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\obj\Debug\netcoreapp2.2\2.01.ahoraES.AssemblyInfo.vb
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\obj\Debug\netcoreapp2.2\2.01.ahoraES.dll
+D:\VB\Procedimientos\Procedimientos\2.01.ahoraES\obj\Debug\netcoreapp2.2\2.01.ahoraES.pdb

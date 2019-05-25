@@ -1,0 +1,11 @@
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\bin\Debug\netcoreapp2.2\2.04.VolumenCilindro.deps.json
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\bin\Debug\netcoreapp2.2\2.04.VolumenCilindro.runtimeconfig.json
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\bin\Debug\netcoreapp2.2\2.04.VolumenCilindro.runtimeconfig.dev.json
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\bin\Debug\netcoreapp2.2\2.04.VolumenCilindro.dll
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\bin\Debug\netcoreapp2.2\2.04.VolumenCilindro.pdb
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\obj\Debug\netcoreapp2.2\2.04.VolumenCilindro.vbprojAssemblyReference.cache
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\obj\Debug\netcoreapp2.2\2.04.VolumenCilindro.vbproj.CoreCompileInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\obj\Debug\netcoreapp2.2\2.04.VolumenCilindro.AssemblyInfoInputs.cache
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\obj\Debug\netcoreapp2.2\2.04.VolumenCilindro.AssemblyInfo.vb
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\obj\Debug\netcoreapp2.2\2.04.VolumenCilindro.dll
+D:\VB\Procedimientos\Procedimientos\2.04.VolumenCilindro\obj\Debug\netcoreapp2.2\2.04.VolumenCilindro.pdb
